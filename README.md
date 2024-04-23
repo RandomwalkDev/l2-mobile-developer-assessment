@@ -3,7 +3,7 @@
 #### I made this app in 6hr without and prior knowledge of react native, it was an assesment test for the company Random Walk Ai.
 ## Made with Expo
 ![](/readme.jpg)
-
+check video folder for demo
 
 #### There is collision physics, evnvironment setup, score tracker
 
